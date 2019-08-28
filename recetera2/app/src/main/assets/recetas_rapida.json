@@ -1,0 +1,21 @@
+{
+	"recetas":[
+		{
+
+			"imagen_receta":"https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2018/08/receta-banderilla.jpg",
+			"nombre_receta":"Banderillas ",
+			"tipo":"Comida Rapida",
+			"ingredientes":["2 tazas de harina instantánea para hot cakes","3/4 de taza de leche","2 huevos","2 cucharadas de mantequilla derretida","Aceite","12 salchichas","12 palitos para banderillas"],
+			"preparacion":["Licúa las dos tazas de harina para hot cakes con la leche, huevo y mantequilla derretida. Asegúrate de que no queden grumos.","Calienta el aceite en una olla honda o freidora.","Inserta las salchichas en los palitos de madera y cubre las banderillas con la mezcla.","Fríe hasta que las banderillas queden doraditas.","Escurre y dejar enfriar."],
+			"tiempo_de_preparacion":"20 min"
+		},
+		{
+			"imagen_receta":"https://mylatinatable.com/wp-content/uploads/2016/01/foto-heroe-1024x693.jpg",
+			"nombre_receta":"Aros de Cebolla",
+			"tipo":"Comida Rapida",
+			"ingredientes":["1 cebolla grande (200-250 gramos)","1 vaso de harina de trigo (140 gramos)","1 vaso de pan rallado (175 gramos)","1 vaso de leche (250 ml)","1 huevo","1 cucharada pequeña de levadura química en polvo","2 vasos de aceite para freír (500 ml)","pimienta negra molida","sal"],
+			"preparacion":["Pon en un cuenco 140 gramos de harina de trigo. Añade 1 cucharada pequeña de levadura química (tipo Royal no de panadería), una cucharada pequeña de sal y mezcla bien.","Corta una cebolla grande en rodajas gruesas. Separa los aros de la cebolla y asegúrate de que no queden ningún aro unido a otro. Luego échalos al cuenco con la harina y mezcla para que la cebolla se cubra bien de harina. Saca los aros a un plato y reserva. No tires la harina que nos servirá para hacer el rebozado de los aros de cebolla.","Bate un huevo grande en un cuenco pequeño y luego añade 1/4 de litro de leche. Echa también una pizca de pimienta negra molida y bate para que se mezcle todo.","Ahora echa los huevos con la leche en el cuenco con la harina y bate hasta que esté todo bien mezclado. Prepara un recipiente con pan rallado.","Pon a fuego medio fuerte una sartén (yo usé una sartén de 24 cm) con medio litro de aceite de girasol (o puedes utilizar otro tipo de aceite para la fritura).","Sumerge algunos aros en la mezcla de huevos, leche y harina. Luego sácalos con un tenedor y deja que escurran un poco.","Pásalos al recipiente con el pan rallado y rebózalos bien.","Echa los aros de cebolla en el aceite caliente y fríe durante unos 2 minutos o hasta que se estén dorados por ambos lados. Luego sácalos de la sartén y déjalos sobre un plato con papel absorbente para que suelten el exceso de aceite.","Repite con los demás aros hasta que estén todos hechos. Por último solo nos queda añadir una pizca de sal y listo. Fuera de la cocina y a comer!!!"],
+			"tiempo_de_preparacion":"20-25 min"
+		}
+	]
+}

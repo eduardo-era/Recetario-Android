@@ -1,0 +1,21 @@
+{
+	"recetas":[
+		{
+
+			"imagen_receta":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SVJGwiNyyEhngz-D8oWsSkxhYH4sHlfCn85t3OmYxXRvKl3w9A",
+			"nombre_receta":"Ice tea de mango y fresas",
+			"tipo":"Bebidas",
+			"ingredientes":["1/2 taza de agua caliente","4 tajadas pequeñas de mango","1 vaso de hielo","8 fresas cortadas en cuatro","1 cucharadita de té negro","1 rama de hierbabuena"],
+			"preparacion":["Infusiona el té por dos minutos en el agua caliente.","En un vaso pon el hielo, las frutas e incorpora lentamente el té caliente.","Decora con la hierbabuena y si lo deseas, también con una rodaja de algún cítrico."],
+			"tiempo_de_preparacion":" 20 min."
+		},
+		{
+			"imagen_receta":"https://i.pinimg.com/originals/b9/cd/77/b9cd77eadd0a65477f84d816944e7a49.jpg",
+			"nombre_receta":"Limonada Rosa",
+			"tipo":"Bebidas",
+			"ingredientes":[" Fresas lavadas y frambuesas"," Agua fría"," Hielos","Azúcar","limón"],
+			"preparacion":["Machaca fresas y frambuesas sacando su jugo.","Añade el jugo de un limón, una cuchara de azúcar, el agua y la pulpa de jugo necesaria para dar color.","Agrega hielo y pedazos de fresa a un vaso y sirve frío."],
+			"tiempo_de_preparacion":""
+		}
+	]
+}

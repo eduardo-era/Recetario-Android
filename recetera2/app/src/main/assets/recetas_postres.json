@@ -1,0 +1,21 @@
+{
+	"recetas":[
+		{
+
+			"imagen_receta":"https://3.bp.blogspot.com/-3ueBq8aG1OM/Wq5fCOK9t9I/AAAAAAAAG4k/4c2DCYQsovcj1RLjaCH0ejVX7H3SCiULgCLcBGAs/s1600/Cheesecake%2Bde%2Bchocolate%2Bblanco%2By%2Blimon%2B%2B1.jpg",
+			"nombre_receta":"Cheesecake de chocolate blanco",
+			"tipo":"Postre",
+			"ingredientes":["1 tableta de chocolate blanco","175 gramos de galletas de leche","1 cucharada de mantequilla","400 gramos de queso crema","4 cucharadas de azúcar","200 mililitros de crema para batir o nata de leche","1 caja de gelatina sin sabor"],
+			"preparacion":["Para hacer la base, triturar las galletas y añadir la mantequilla derretida y mezclar. Cubrir el fondo del molde con esta mezcla y refrigerar. En una olla, agregar una taza de agua y la gelatina sin sabor y dejar hervir. Agregar la nata de leche o crema para batir. Cuando empiece a hervir, añadir el chocolate en trocitos y revolver hasta que se derrita.","Aparte, en un bol, batir el queso crema con el azúcar hasta que esté cremoso y agregar la mezcla de chocolate y continuar batiendo hasta homogeneizar completamente. Agregar esta mezcla al molde con la base de galleta y cubrir con papel film. Llevar al refrigerador de 4 horas a un día."],
+			"tiempo_de_preparacion":"30 min."
+		},
+		{
+			"imagen_receta":"https://pespdotcom.files.wordpress.com/2019/04/pastel-de-zanahoria-con-nuez.jpg?w=2000",
+			"nombre_receta":"Pastel casero de zanahoria",
+			"tipo":"Postre",
+			"ingredientes":["150 gramos de harina integral o de avena","2 zanahorias","10 gramos polvo para hornear","2 huevos","2 bananos maduros","3 cucharadas de aceite de oliva","4 cucharadas de azúcar o endulzante al gusto","1 cucharadita de canela en polvo","40 gramos de nueces picadas y pasas al gusto"],
+			"preparacion":["En un recipiente, mezclar bien las nueces con el aceite de oliva, el azúcar o endulzante, la zanahoria rallada, los bananos triturado, el polvo para hornear, la harina y la canela. Separar las claras de las yemas, agregar las yemas a la mezcla y revolver. Aparte, batir las claras hasta antes de llegar a punto de nieve y agregar a la mezcla anterior y mezclar bien.","Verter la mezcla en un molde engrasado y enharinado y llevar al horno precalentado a 180 gramos por 30 minutos o hasta que, al introducir un cuchillo, éste salga limpio. Dejar enfriar y servir. Si se desea, se puede cubrir por encima con chocolate blanco."],
+			"tiempo_de_preparacion":"45 min"
+		}
+	]
+}

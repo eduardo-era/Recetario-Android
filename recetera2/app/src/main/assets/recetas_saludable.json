@@ -1,0 +1,21 @@
+{
+	"recetas":[
+		{
+
+			"imagen_receta":"https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/espanol/800x800/ensalada_de_pasta_con_vinagreta_recipes_800x800.jpg",
+			"nombre_receta":"Ensalada de pasta con vinagreta",
+			"tipo":"Comida Salidable",
+			"ingredientes":["80 g de mezclum de lechuga","50 g de tomates cherry","25 g de salmón ahumado","30 g de pasta","10 g de uvas pasas sin pepitas","10 g de maíz en conserva"],
+			"preparacion":["Pon la pasta a cocer con media pastilla de Avecrem 100% Natural Pescado y Marisco. Una vez cocida, enfríala bajo un chorro de agua, escúrrela y resérvala hasta su utilización.","Limpia y trocea los tomates, las aceitunas y, en tiras, el salmón.","Elabora una vinagreta con la otra mitad de la pastilla de Avecrem 100% Natural Pescado y Marisco, el maíz, las pasas, el aceite, el vinagre y las pimientas.","Lava y corta las hojas de lechugas. Mézclala con la pasta cocida ya fría y escurrida. Mezcla el resto de ingredientes de la ensalada y aliña con la vinagreta."],
+			"tiempo_de_preparacion":"10-20 min"
+		},
+		{
+			"imagen_receta":"https://www.goya.com/media/3639/escalivada-grilled-summer-vegetables.jpg?quality=80",
+			"nombre_receta":"Escalivada",
+			"tipo":"Comida Salidable",
+			"ingredientes":["50 ml de aceite de oliva","0,25 pastilla de caldo de pollo","6 tomates cherry de rama","2 pimientos rojos","1 cebolla mediana","1 berenjena"],
+			"preparacion":["Precalienta el horno a 220 ºC. Lava las hortalizas y ponlas enteras en una fuente de horno.","Añade el aceite de oliva y 1/4 de pastilla de Avecrem desmenuzada por encima de las verduras. Pon a cocerlas durante aproximadamente 30 min o hasta que estén tiernas por dentro.","Saca las verduras del horno y pélalas con cuidado de no quemarte. Ten en cuenta que deben quedar sin nada de piel. Retira todas las pepitas.","Corta las verduras de forma decorativa. Los pimientos y la berenjena los puedes cortar a tiras, los tomates puedes dejarlos enteros y la cebolla puedes cortarla en juliana. Pon las verduras en un plato y alíñalas con aceite de oliva."],
+			"tiempo_de_preparacion":"20-40 min"
+		}
+	]
+}
